@@ -1,7 +1,4 @@
-''' 
-Code of How to create Stopwatch 
-'''
-     
+
    
 import kivy   
   
