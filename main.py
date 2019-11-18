@@ -16,7 +16,6 @@ from kivy.properties import StringProperty
   
 from kivy.uix.boxlayout import BoxLayout  
   
-# he Clock object allows you to 
 
 from kivy.clock import Clock 
 import datetime as dt
